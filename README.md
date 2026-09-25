@@ -16,4 +16,4 @@
     if M=60 M=0 H++
     if H=23 H=0
 </pre>
-<p><strong>In the description i have added the source code of (Codeforces) <a herf="https://github.com/Fardin-Prodhan/Codeforces_Problem_Solving/blob/main/karenAndMorning.cpp"> <big>816A. Karen And Morning</big> </a> problem</strong></p>
+<p><strong>In the description i have added the source code of (Codeforces) <a herf = "https://github.com/Fardin-Prodhan/Codeforces_Problem_Solving/blob/main/karenAndMorning.cpp"> <big>816A. Karen And Morning</big> </a> problem</strong></p>
